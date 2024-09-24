@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Привіт👋 Мене звуть Євгеній!</h1>
+<h1 align="center">Hello 👋 My name is Yevhenii!</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Технології:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ### 
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥  My statistics :</h3>
 
 ###
 
