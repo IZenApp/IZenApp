@@ -356,15 +356,62 @@
 <br/>
 
 <div align="center">
-  <h3>📊 Alternative Streak Visualization</h3>
-  <img src="https://streak-stats.demolab.com?user=IZenApp&theme=dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800&fire=FF6EC7&ring=00D4FF&stroke=FF6EC7&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FF6EC7" alt="Alternative Streak" width="100%"/>
+<div align="center">
+  <h3>📊 Дополнительная статистика</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IZenApp&theme=synthwave&border_color=FF6EC7&border_radius=15&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF" alt="Coding Time" width="100%"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=synthwave&border_color=FF6EC7&border_radius=15&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true&count_private=true&custom_title=Общая%20статистика" alt="Extended Stats" width="100%"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🎭 Commit Calendar Heatmap</h3>
-  <img src="https://ghchart.rshah.org/FF6EC7/IZenApp" alt="Commit Calendar" width="100%"/>
+<div align="center">
+  <h3>🎯 Активная разработка</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&pause=1000&color=FF6EC7&center=true&vCenter=true&width=800&lines=💻+Ежедневно+пишу+код;��+Создаю+крутые+проекты;🔥+Автоматизирую+процессы;⚡+Решаю+сложные+задачи;🌟+Делаю+мир+лучше+через+код" alt="Development Activity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Визуализация активности</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=IZenApp&theme=synthwave&bg_color=0D1117&color=FF6EC7&line=00D4FF&point=FFFFFF&area=true&hide_border=false&border_color=FF6EC7" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>✨ Живая статистика</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF6EC7&center=true&vCenter=true&width=200&height=60&lines=💻+Commits;📊+500%2B" alt="Commits" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&height=60&lines=⭐+Stars;🌟+50%2B" alt="Stars" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=9F7AEA&center=true&vCenter=true&width=200&height=60&lines=🔱+Forks;📈+20%2B" alt="Forks" />
+      </td>
+      <td align="center" width="25%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F093FB&center=true&vCenter=true&width=200&height=60&lines=📦+Repos;🚀+10%2B" alt="Repos" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎮 Интерактивная карта навыков</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=2000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=600&height=120&lines=🐍+Python+•••••;⚡+JavaScript+••••;🔥+C%2B%2B+•••;🚀+Node.js+••••;💎+VS+Code+•••••" alt="Skill Map" />
 </div>
 
 <br/>
