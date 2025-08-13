@@ -10,25 +10,36 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="30" height="30" /> Обо мне
+## 👨‍💻 Обо мне
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Привет!+👋+Я+Евгений;🚀+Full-Stack+разработчик+из+Украины;💡+Превращаю+идеи+в+реальность;🔥+Автоматизирую+все+что+можно;⚡+Создаю+крутые+боты+и+интеграции" alt="About Me Animation" />
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Heart.png" alt="Heart" width="50" height="50"/>
-        <h3>💻 Страсть к коду</h3>
-        <p>Создаю полезные инструменты<br/>и автоматизирую процессы</p>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80px"/>
+        <h3>🔥 Passion</h3>
+        <p><strong>Код — это искусство</strong><br/>Каждая строка имеет смысл</p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" height="50"/>
-        <h3>🚀 Инновации</h3>
-        <p>Всегда ищу новые решения<br/>для сложных задач</p>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px"/>
+        <h3>🚀 Mission</h3>
+        <p><strong>Автоматизация мира</strong><br/>Делаю жизнь проще</p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="50" height="50"/>
-        <h3>🌍 Глобальное мышление</h3>
-        <p>Создаю проекты, которые<br/>помогают людям по всему миру</p>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px"/>
+        <h3>💡 Vision</h3>
+        <p><strong>Инновации</strong><br/>Создаю будущее сегодня</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80px"/>
+        <h3>🎯 Focus</h3>
+        <p><strong>Результат</strong><br/>От идеи до продукта</p>
       </td>
     </tr>
   </table>
@@ -36,7 +47,76 @@
 
 <br/>
 
-```yaml
+<div align="center">
+  <h3>🌟 Мой путь в программировании</h3>
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/2020-Начало_пути-FF6B6B?style=for-the-badge" />
+        <p>Первые строки кода на Python</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/2021-Web_разработка-4ECDC4?style=for-the-badge" />
+        <p>JavaScript и создание веб-приложений</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/2022-Боты_и_API-45B7D1?style=for-the-badge" />
+        <p>Discord и Telegram боты</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/2023-Автоматизация-9B59B6?style=for-the-badge" />
+        <p>Google Sheets интеграции</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://img.shields.io/badge/2025-Полный_стек-F39C12?style=for-the-badge" />
+        <p>Комплексные решения</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  experience: number;
+  passion: string[];
+  currentlyWorking: string[];
+  funFact: string;
+}
+
+const yevhenii: Developer = {
+  name: "Yevhenii Bachula",
+  location: "🇺🇦 Ukraine, UTC+3",
+  experience: 5,
+  passion: [
+    "🤖 Building intelligent bots",
+    "🔗 Creating seamless integrations", 
+    "⚡ Automating boring stuff",
+    "🌉 Bridging different platforms"
+  ],
+  currentlyWorking: [
+    "GSDiscord - Discord + Google Sheets magic",
+    "GSTelegramDiscord - Multi-platform automation",
+    "AudiobookDownloader - YouTube to MP3 converter"
+  ],
+  funFact: "Я могу автоматизировать что угодно! 🚀"
+};
+
+// Мой подход к разработке
+function createAmazingProject(idea: string): string {
+  const steps = [
+    "🎯 Анализ задачи",
+    "💡 Поиск лучшего решения", 
+    "⚡ Быстрая разработка",
+    "🧪 Тщательное тестирование",
+    "🚀 Запуск в продакшн"
+  ];
+  
+  return "Идея превращена в реальность! ✨";
+}
 name: Yevhenii Bachula
 location: 🇺🇦 Ukraine
 timezone: UTC+3
