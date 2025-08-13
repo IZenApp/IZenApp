@@ -239,145 +239,48 @@
 <br/>
 
 <div align="center">
-  <h3>🔥 Streak статистика</h3>
-  <img src="https://streak-stats.demolab.com/?user=IZenApp&theme=synthwave&border_radius=15&border=FF6EC7&background=0D1117&stroke=FF6EC7&ring=00D4FF&fire=FF6EC7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" width="600"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>📈 Детальная активность</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IZenApp&theme=synthwave" alt="Profile Details" width="100%"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>🎨 Аналитические карточки</h3>
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IZenApp&theme=synthwave" alt="Repos per Language" width="100%"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IZenApp&theme=synthwave" alt="Most Commits" width="100%"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IZenApp&theme=synthwave" alt="GitHub Stats" width="100%"/>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IZenApp&theme=synthwave&utcOffset=3" alt="Productive Time" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>🏆 Трофеи и достижения</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>📊 График активности</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&custom_title=Yevhenii%27s%20Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=00D4FF&point=FFFFFF&area=true&hide_border=false&border_color=FF6EC7&border_radius=15" alt="Activity Graph" width="100%"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>⚡ Быстрая статистика</h3>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_Total_Commits-500+-FF6EC7?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌟_Stars_Earned-50+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🔱_Forks_Created-20+-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📦_Repositories-10+-F093FB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IZenApp&theme=2077" alt="GitHub Profile Summary"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IZenApp&theme=2077" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IZenApp&theme=2077" alt="Most Commit Language"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IZenApp&theme=2077" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IZenApp&theme=2077&utcOffset=3" alt="Productive Time"/>
-</div>
 
 <br/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Связь со мной
 
-<div align="center">
-  <a href="mailto:evgene352@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/IZenApp">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  </a>
-</div>
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IZenApp&color=blueviolet&style=for-the-badge&label=Просмотры+профиля" alt="Profile views"/>
-</div>
 
 <br/>
 
 ---
 
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-    "Код с целью, создавай с страстью!"
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
-  </h3>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn" />
-</div>
 
-<div align="center">
-  <h3>🌊 3D Contribution Calendar</h3>
-  <img src="https://github.com/IZenApp/IZenApp/blob/main/assets/github-snake.svg" alt="Animated Contributions" width="100%"/>
-</div>
 
 <br/>
 
-<div align="center">
-  <h3>🎪 Интерактивные достижения</h3>
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px"/>
-        <h4>🏆 Achievements</h4>
-        <p><strong>Pull Shark</strong><br/>🦈 100+ PRs<br/>⚡ Quickdraw</p>
       </td>
       <td align="center" width="20%">
         <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60px"/>
@@ -448,6 +351,20 @@
       </td>
     </tr>
   </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 Alternative Streak Visualization</h3>
+  <img src="https://streak-stats.demolab.com?user=IZenApp&theme=dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=800&fire=FF6EC7&ring=00D4FF&stroke=FF6EC7&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FF6EC7" alt="Alternative Streak" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎭 Commit Calendar Heatmap</h3>
+  <img src="https://ghchart.rshah.org/FF6EC7/IZenApp" alt="Commit Calendar" width="100%"/>
 </div>
 
 <br/>
