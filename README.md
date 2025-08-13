@@ -217,8 +217,95 @@
 ## <img src="https://media.giphy.com/media/Q7LHmoFwVP6Yc1swZs/giphy.gif" width="30px"> GitHub Analytics
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=IZenApp&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="IZenApp's GitHub stats"/>
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IZenApp&theme=react&border_color=61dafb&hide_border=true&layout=compact&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="IZenApp's GitHub stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=📊+Анализируя+код...;🚀+Загружаю+статистику...;⚡+Данные+готовы!" alt="Loading Analytics" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎯 Основная статистика</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IZenApp&show_icons=true&theme=synthwave&border_color=FF6EC7&hide_border=false&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4FF&text_color=FFFFFF&border_radius=15" alt="GitHub Stats" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IZenApp&theme=synthwave&border_color=FF6EC7&hide_border=false&layout=compact&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_radius=15&langs_count=8" alt="Top Languages" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🔥 Streak статистика</h3>
+  <img src="https://streak-stats.demolab.com/?user=IZenApp&theme=synthwave&border_radius=15&border=FF6EC7&background=0D1117&stroke=FF6EC7&ring=00D4FF&fire=FF6EC7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" width="600"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📈 Детальная активность</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IZenApp&theme=synthwave" alt="Profile Details" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎨 Аналитические карточки</h3>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IZenApp&theme=synthwave" alt="Repos per Language" width="100%"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IZenApp&theme=synthwave" alt="Most Commits" width="100%"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IZenApp&theme=synthwave" alt="GitHub Stats" width="100%"/>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IZenApp&theme=synthwave&utcOffset=3" alt="Productive Time" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 Трофеи и достижения</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 График активности</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&custom_title=Yevhenii%27s%20Contribution%20Graph&bg_color=0D1117&color=FF6EC7&line=00D4FF&point=FFFFFF&area=true&hide_border=false&border_color=FF6EC7&border_radius=15" alt="Activity Graph" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Быстрая статистика</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/💻_Total_Commits-500+-FF6EC7?style=for-the-badge&logo=git&logoColor=white" alt="Commits"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌟_Stars_Earned-50+-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔱_Forks_Created-20+-9F7AEA?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/📦_Repositories-10+-F093FB?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -275,3 +362,92 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn" />
 </div>
+
+<div align="center">
+  <h3>🌊 3D Contribution Calendar</h3>
+  <img src="https://github.com/IZenApp/IZenApp/blob/main/assets/github-snake.svg" alt="Animated Contributions" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎪 Интерактивные достижения</h3>
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px"/>
+        <h4>🏆 Achievements</h4>
+        <p><strong>Pull Shark</strong><br/>🦈 100+ PRs<br/>⚡ Quickdraw</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60px"/>
+        <h4>🔥 Streak</h4>
+        <p><strong>Current</strong><br/>🌟 Active<br/>📈 Growing</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="60px"/>
+        <h4>💎 Quality</h4>
+        <p><strong>Code Quality</strong><br/>📊 High<br/>🎯 Precision</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60px"/>
+        <h4>🚀 Innovation</h4>
+        <p><strong>Projects</strong><br/>💡 Creative<br/>🛠️ Useful</p>
+      </td>
+      <td align="center" width="20%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60px"/>
+        <h4>🌐 Impact</h4>
+        <p><strong>Community</strong><br/>👥 Active<br/>📚 Helpful</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎯 Skill Matrix</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h4>💻 Programming Skills</h4>
+        <img src="https://img.shields.io/badge/Python-🐍_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-⚡_Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/><br/>
+        <img src="https://img.shields.io/badge/C++-🔥_Proficient-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/><br/>
+        <img src="https://img.shields.io/badge/Node.js-🚀_Advanced-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+      </td>
+      <td align="center" width="50%">
+        <h4>🛠️ Development Tools</h4>
+        <img src="https://img.shields.io/badge/VS_Code-��_Master-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/><br/>
+        <img src="https://img.shields.io/badge/Git-📚_Expert-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><br/>
+        <img src="https://img.shields.io/badge/GitHub-🌟_Advanced-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><br/>
+        <img src="https://img.shields.io/badge/API_Design-🎯_Expert-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white" alt="API"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🎨 Creativity Showcase</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=FF6EC7&center=true&vCenter=true&multiline=true&width=800&height=80&lines=🎭+Creating+amazing+Discord+bots;🤖+Automating+tedious+tasks;🌉+Building+bridges+between+platforms;💡+Turning+ideas+into+reality" alt="Creativity" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Power Stats</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IZenApp&theme=synthwave&border_color=FF6EC7&border_radius=15" alt="WakaTime" width="400"/>
+      </td>
+      <td align="center">
+        <img src="https://github-contributor-stats.vercel.app/api?username=IZenApp&limit=5&theme=synthwave&combine_all_yearly_contributions=true&border_color=FF6EC7&border_radius=15" alt="Contributor Stats" width="400"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
