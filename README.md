@@ -49,14 +49,14 @@
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/IZenApp/GSDiscord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=GSDiscord&theme=radical" alt="GSDiscord" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=GSDiscord&theme=dark" alt="GSDiscord" />
       </a>
       <br><b>GSDiscord</b><br>
       🌉 Мост между Discord и Google Sheets
     </td>
     <td align="center" width="300">
       <a href="https://github.com/IZenApp/GSTelegramDiscord">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=GSTelegramDiscord&theme=radical" alt="GSTelegramDiscord" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=GSTelegramDiscord&theme=dark" alt="GSTelegramDiscord" />
       </a>
       <br><b>GSTelegramDiscord</b><br>
       🚀 Автоматизация с Telegram и Discord
@@ -65,7 +65,7 @@
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/IZenApp/audiobook-downloader">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=audiobook-downloader&theme=radical" alt="audiobook-downloader" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=IZenApp&repo=audiobook-downloader&theme=dark" alt="audiobook-downloader" />
       </a>
       <br><b>Audiobook Downloader</b><br>
       🎧 Загрузчик аудиокниг с YouTube
@@ -84,28 +84,22 @@
 
 <h3 align="center">📊 GitHub статистика:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IZenApp&theme=dark" alt="GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IZenApp&theme=radical" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZenApp&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=onestar&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZenApp&layout=compact&theme=dark&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=darkhub&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" width="48%" />
+</div>
 
 ---
 
 <h3 align="center">📈 Активность:</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&theme=github-compact" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
@@ -113,8 +107,12 @@
 <h3 align="center">📬 Связаться со мной:</h3>
 
 <p align="center">
-  <a href="mailto:evgene352@gmail.com"><img src="https://img.shields.io/badge/email-evgene352@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"/></a>
-  <a href="https://github.com/IZenApp"><img src="https://img.shields.io/badge/GitHub-IZenApp-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="mailto:evgene352@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/IZenApp">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
