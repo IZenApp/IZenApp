@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=800&color=36BCF7FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;💻+Python+%7C+JavaScript+%7C+C%2B%2B;🌟+Creating+Amazing+Projects;⚡+Automation+Expert" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&repeat=false&pause=0&color=36BCF7FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;💻+Python+%7C+JavaScript+%7C+C%2B%2B;🌟+Creating+Amazing+Projects;⚡+Automation+Expert" alt="Typing Animation" />
 </div>
 
 <br/>
@@ -13,7 +13,7 @@
 ## 👨‍💻 Обо мне
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=800&color=58A6FF&center=true&vCenter=true&multiline=true&width=700&height=150&lines=Привет!+👋+Я+Евгений;🚀+Full-Stack+разработчик+из+Украины;💡+Превращаю+идеи+в+реальность;🔥+Автоматизирую+все+что+можно;⚡+Создаю+крутые+боты+и+интеграции" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&multiline=true&speed=100&width=700&height=150&lines=Привет!+👋+Я+Евгений;🚀+Full-Stack+разработчик+из+Украины;💡+Превращаю+идеи+в+реальность;🔥+Автоматизирую+все+что+можно;⚡+Создаю+крутые+боты+и+интеграции" alt="About Me Animation" />
 </div>
 
 <br/>
@@ -79,21 +79,21 @@
 
 <div align="center">
   <h3>💻 Интерактивный код</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=interface+Developer+%7B;++name%3A+string%3B;++location%3A+string%3B;++experience%3A+number%3B;++passion%3A+string%5B%5D%3B;++currentlyWorking%3A+string%5B%5D%3B;++funFact%3A+string%3B;%7D;+;const+yevhenii%3A+Developer+%3D+%7B;++name%3A+%22Yevhenii+Bachula%22%2C;++location%3A+%22🇺🇦+Ukraine%2C+UTC%2B3%22%2C;++experience%3A+5%2C;++passion%3A+%5B;++++%22🤖+Building+intelligent+bots%22%2C;++++%22🔗+Creating+seamless+integrations%22%2C;++++%22⚡+Automating+boring+stuff%22%2C;++++%22🌉+Bridging+different+platforms%22;++%5D%2C;++currentlyWorking%3A+%5B;++++%22GSDiscord+-+Discord+%2B+Google+Sheets%22%2C;++++%22GSTelegramDiscord+-+Multi-platform%22%2C;++++%22AudiobookDownloader+-+YouTube+to+MP3%22;++%5D%2C;++funFact%3A+%22Я+могу+автоматизировать+что+угодно!+🚀%22;%7D%3B" alt="Developer Interface" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3500&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&multiline=true&speed=100&width=800&height=400&lines=interface+Developer+%7B;++name%3A+string%3B;++location%3A+string%3B;++experience%3A+number%3B;++passion%3A+string%5B%5D%3B;++currentlyWorking%3A+string%5B%5D%3B;++funFact%3A+string%3B;%7D;+;const+yevhenii%3A+Developer+%3D+%7B;++name%3A+%22Yevhenii+Bachula%22%2C;++location%3A+%22🇺🇦+Ukraine%2C+UTC%2B3%22%2C;++experience%3A+5%2C;++passion%3A+%5B;++++%22🤖+Building+intelligent+bots%22%2C;++++%22🔗+Creating+seamless+integrations%22%2C;++++%22⚡+Automating+boring+stuff%22%2C;++++%22🌉+Bridging+different+platforms%22;++%5D%2C;++currentlyWorking%3A+%5B;++++%22GSDiscord+-+Discord+%2B+Google+Sheets%22%2C;++++%22GSTelegramDiscord+-+Multi-platform%22%2C;++++%22AudiobookDownloader+-+YouTube+to+MP3%22;++%5D%2C;++funFact%3A+%22Я+могу+автоматизировать+что+угодно!+🚀%22;%7D%3B" alt="Developer Interface" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>⚡ Мой подход к разработке</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1500&color=FF7B72&center=true&vCenter=true&multiline=true&width=700&height=200&lines=function+createAmazingProject(idea%3A+string)+%7B;++const+steps+%3D+%5B;++++%22🎯+Анализ+задачи%22%2C;++++%22💡+Поиск+лучшего+решения%22%2C;++++%22⚡+Быстрая+разработка%22%2C;++++%22🧪+Тщательное+тестирование%22%2C;++++%22🚀+Запуск+в+продакшн%22;++%5D%3B;++;++return+%22Идея+превращена+в+реальность!+✨%22%3B;%7D" alt="Development Process" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4500&repeat=false&pause=0&color=FF7B72&center=true&vCenter=true&multiline=true&speed=100&width=700&height=200&lines=function+createAmazingProject(idea%3A+string)+%7B;++const+steps+%3D+%5B;++++%22🎯+Анализ+задачи%22%2C;++++%22💡+Поиск+лучшего+решения%22%2C;++++%22⚡+Быстрая+разработка%22%2C;++++%22🧪+Тщательное+тестирование%22%2C;++++%22🚀+Запуск+в+продакшн%22;++%5D%3B;++;++return+%22Идея+превращена+в+реальность!+✨%22%3B;%7D" alt="Development Process" />
 </div>
 
 <br/>
 
 <div align="center">
   <h3>📊 Мои навыки (YAML формат)</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=1200&color=39D353&center=true&vCenter=true&multiline=true&width=600&height=350&lines=name%3A+Yevhenii+Bachula;location%3A+🇺🇦+Ukraine;timezone%3A+UTC%2B3;role%3A+Full-Stack+Developer;experience%3A+5%2B+years;+;languages%3A;++-+Python++++++%23+⭐⭐⭐⭐⭐;++-+JavaScript++%23+⭐⭐⭐⭐;++-+C%2B%2B+++++++++%23+⭐⭐⭐;++-+HTML%2FCSS++++%23+⭐⭐⭐⭐;+;specialization%3A;++-+Bot+Development;++-+API+Integration;++-+Process+Automation;++-+Google+Sheets+Integration;+;github_achievements%3A;++-+%22🦈+Pull+Shark%22;++-+%22⚡+Quickdraw%22;+;motto%3A+%22Code+with+purpose%2C+build+with+passion!+🚀%22" alt="Skills YAML" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=4000&repeat=false&pause=0&color=39D353&center=true&vCenter=true&multiline=true&speed=100&width=600&height=350&lines=name%3A+Yevhenii+Bachula;location%3A+🇺🇦+Ukraine;timezone%3A+UTC%2B3;role%3A+Full-Stack+Developer;experience%3A+5%2B+years;+;languages%3A;++-+Python++++++%23+⭐⭐⭐⭐⭐;++-+JavaScript++%23+⭐⭐⭐⭐;++-+C%2B%2B+++++++++%23+⭐⭐⭐;++-+HTML%2FCSS++++%23+⭐⭐⭐⭐;+;specialization%3A;++-+Bot+Development;++-+API+Integration;++-+Process+Automation;++-+Google+Sheets+Integration;+;github_achievements%3A;++-+%22🦈+Pull+Shark%22;++-+%22⚡+Quickdraw%22;+;motto%3A+%22Code+with+purpose%2C+build+with+passion!+🚀%22" alt="Skills YAML" />
 </div>
 
 <br/>
@@ -103,15 +103,15 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=800&color=58A6FF&center=true&vCenter=true&width=250&height=80&lines=console.log(%22Hello+World!%22)%3B;%2F%2F+Мой+первый+код;print(%22Привет%2C+мир!%22)" alt="First Code" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&width=250&height=80&lines=console.log(%22Hello+World!%22)%3B;%2F%2F+Мой+первый+код;print(%22Привет%2C+мир!%22)" alt="First Code" />
         <p><strong>Первые шаги</strong></p>
       </td>
       <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&color=FF7B72&center=true&vCenter=true&width=250&height=80&lines=async+function+magic()+%7B;++await+automation()%3B;++return+%22✨+Done!%22%3B;%7D" alt="Current Code" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3500&repeat=false&pause=0&color=FF7B72&center=true&vCenter=true&width=250&height=80&lines=async+function+magic()+%7B;++await+automation()%3B;++return+%22✨+Done!%22%3B;%7D" alt="Current Code" />
         <p><strong>Сейчас пишу</strong></p>
       </td>
       <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1200&color=39D353&center=true&vCenter=true&width=250&height=80&lines=%2F%2F+TODO%3A+AI+integration;%2F%2F+TODO%3A+World+automation;%2F%2F+TODO%3A+Space+coding+🚀" alt="Future Code" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&repeat=false&pause=0&color=39D353&center=true&vCenter=true&width=250&height=80&lines=%2F%2F+TODO%3A+AI+integration;%2F%2F+TODO%3A+World+automation;%2F%2F+TODO%3A+Space+coding+🚀" alt="Future Code" />
         <p><strong>Планы на будущее</strong></p>
       </td>
     </tr>
@@ -210,7 +210,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Статистика
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&color=36BCF7FF&center=true&vCenter=true&width=600&lines=📊+Загружаю+статистику...;🔥+Анализирую+активность...;⚡+Готово!+Смотрите+результаты+" alt="Loading Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&repeat=false&pause=0&color=36BCF7FF&center=true&vCenter=true&width=600&lines=📊+Загружаю+статистику...;🔥+Анализирую+активность...;⚡+Готово!+Смотрите+результаты+" alt="Loading Stats" />
 </div>
 
 <br/>
@@ -271,7 +271,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=800&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Спасибо+за+посещение!;🚀+Давайте+создавать+вместе!;⭐+Star+если+понравилось!" alt="Thank You" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Спасибо+за+посещение!;🚀+Давайте+создавать+вместе!;⭐+Star+если+понравилось!" alt="Thank You" />
 </div>
 
 <div align="center">
