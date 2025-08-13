@@ -27,18 +27,79 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Обо мне
 
-```javascript
-const yevhenii = {
-    location: "🇺�� Ukraine",
-    role: "Full-Stack Developer",
-    languages: ["Python", "JavaScript", "C++", "HTML", "CSS"],
-    tools: ["Node.js", "VS Code", "Git"],
-    achievements: ["🦈 Pull Shark", "⚡ Quickdraw"],
-    passion: "Creating automation tools and useful applications",
-    currentFocus: "Building bridges between Discord, Telegram & Google Sheets",
-    motto: "Code with purpose, build with passion! 🚀"
-};
-```
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=const+yevhenii+%3D+%7B;++location%3A+%22🇺🇦+Ukraine%22%2C;++role%3A+%22Full-Stack+Developer%22%2C;++currentLevel%3A+%22Senior%22%2C;++experience%3A+%22%2B5+years%22%2C;++passion%3A+%22Innovation+%26+Automation%22;%7D%3B" alt="Code Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60px"/>
+        <h3>📍 Локация</h3>
+        <p><strong>🇺🇦 Украина</strong><br/>Часовой пояс: UTC+3</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="60px"/>
+        <h3>💼 Роль</h3>
+        <p><strong>Full-Stack Developer</strong><br/>Senior уровень | 5+ лет опыта</p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60px"/>
+        <h3>🚀 Фокус</h3>
+        <p><strong>Автоматизация & Интеграции</strong><br/>Discord • Telegram • Google Sheets</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🏆 Достижения GitHub</h3>
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Активный_контрибьютор-blue?style=for-the-badge&logo=github&logoColor=white" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-Быстрые_решения-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Quickdraw"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>💡 Философия разработки</h3>
+  <blockquote>
+    <p><em>"Код с целью, создавай с страстью! Каждая строка кода должна решать реальную проблему и делать мир немного лучше."</em></p>
+  </blockquote>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50px"/>
+        <h4>Languages</h4>
+        <p>Python • JavaScript<br/>C++ • HTML • CSS</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50px"/>
+        <h4>Tools & Frameworks</h4>
+        <p>Node.js • VS Code<br/>Git • Docker • API</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="50px"/>
+        <h4>Specialization</h4>
+        <p>Bot Development<br/>API Integration<br/>Automation</p>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50px"/>
+        <h4>Current Projects</h4>
+        <p>GSDiscord<br/>GSTelegramDiscord<br/>Audiobook Tools</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
