@@ -1,272 +1,250 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,5,25&height=300&section=header&text=Yevhenii%20Bachula&fontSize=70&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Ukraine&descAlignY=51&descAlign=62" />
-</div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&repeat=false&pause=0&color=36BCF7FF&center=true&vCenter=true&width=600&height=80&lines=🚀+Full-Stack+Developer;💻+Python+%7C+JavaScript+%7C+C%2B%2B;🌟+Creating+Amazing+Projects;⚡+Automation+Expert" alt="Typing Animation" />
-</div>
+# 👋 Привіт! Я Євгеній Бачула  
+### 🚀 Full-Stack Developer | 🎯 Automation Expert | 💡 Problem Solver
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=🇺🇦+Розробник+з+України;💻+Python+•+JavaScript+•+TypeScript;🤖+AI+•+Automation+•+Бот-розробка;🔧+Backend+•+Frontend+•+DevOps;⚡+Перетворюю+ідеї+в+реальність)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 Обо мне
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&multiline=true&speed=100&width=700&height=150&lines=Привет!+👋+Я+Евгений;🚀+Full-Stack+разработчик+из+Украины;💡+Превращаю+идеи+в+реальность;🔥+Автоматизирую+все+что+можно;⚡+Создаю+крутые+боты+и+интеграции" alt="About Me Animation" />
 </div>
 
-<br/>
+## 🧑‍💻 Про мене
+
+```typescript
+const yevhenii = {
+    location: "🇺🇦 Україна",
+    role: "Full-Stack Developer",
+    passion: ["Automation", "AI Integration", "Clean Code"],
+    currentFocus: "Building intelligent automation solutions",
+    
+    languages: {
+        primary: ["Python", "JavaScript", "TypeScript"],
+        secondary: ["C++", "HTML/CSS", "SQL"],
+        learning: ["Rust", "Go"]
+    },
+    
+    technologies: {
+        backend: ["FastAPI", "Django", "Node.js", "Express"],
+        frontend: ["React", "Vue.js", "Vanilla JS", "Progressive Web Apps"],
+        database: ["PostgreSQL", "MongoDB", "SQLite", "Redis"],
+        tools: ["Docker", "Git", "GitHub Actions", "Vercel"],
+        ai: ["OpenAI API", "LangChain", "Anthropic Claude", "Local LLMs"]
+    },
+    
+    specialties: [
+        "🤖 Telegram & Discord Bot Development",
+        "⚡ API Integration & Automation",
+        "🔗 Webhook & Real-time Systems", 
+        "📊 Data Processing & Analytics",
+        "🎨 Modern UI/UX Development"
+    ]
+};
+```
+
+## 🛠️ Технологічний стек
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80px"/>
-        <h3>🔥 Passion</h3>
-        <p><strong>Код — это искусство</strong><br/>Каждая строка имеет смысл</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80px"/>
-        <h3>🚀 Mission</h3>
-        <p><strong>Автоматизация мира</strong><br/>Делаю жизнь проще</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80px"/>
-        <h3>💡 Vision</h3>
-        <p><strong>Инновации</strong><br/>Создаю будущее сегодня</p>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80px"/>
-        <h3>🎯 Focus</h3>
-        <p><strong>Результат</strong><br/>От идеи до продукта</p>
-      </td>
-    </tr>
-  </table>
+
+### 💻 Мови програмування
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+### 🗄️ Бази даних
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🛠️ Інструменти та платформи
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🤖 AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
 </div>
 
-<br/>
+## 🚀 Featured Projects
 
 <div align="center">
-  <h3>🌟 Мой путь в программировании</h3>
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/2020-Начало_пути-FF6B6B?style=for-the-badge" />
-        <p>Первые строки кода на Python</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/2021-Web_разработка-4ECDC4?style=for-the-badge" />
-        <p>JavaScript и создание веб-приложений</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/2022-Боты_и_API-45B7D1?style=for-the-badge" />
-        <p>Discord и Telegram боты</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/2023-Автоматизация-9B59B6?style=for-the-badge" />
-        <p>Google Sheets интеграции</p>
-      </td>
-      <td align="center" width="20%">
-        <img src="https://img.shields.io/badge/2025-Полный_стек-F39C12?style=for-the-badge" />
-        <p>Комплексные решения</p>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎓 AssistentNUOS</h3>
+      <a href="https://github.com/IZenApp/AssistentNUOS">
+        <img src="https://img.shields.io/badge/PWA-Student_Assistant-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+      </a>
+      <br><br>
+      <p><strong>Progressive Web App для студентів НУОС</strong></p>
+      <p>• 📱 Мобільна версія з offline підтримкою</p>
+      <p>• 📅 Розклад занять та керівництво</p>
+      <p>• 🎨 Сучасний Glassmorphism дизайн</p>
+      <p>• ⚡ Швидка установка як нативний додаток</p>
+      <br>
+      <img src="https://img.shields.io/github/stars/IZenApp/AssistentNUOS?style=social" />
+      <img src="https://img.shields.io/github/forks/IZenApp/AssistentNUOS?style=social" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 AI Telegram Bot</h3>
+      <a href="https://github.com/IZenApp/telegram-ai-bot">
+        <img src="https://img.shields.io/badge/Telegram-AI_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+      <br><br>
+      <p><strong>Інтелектуальний Telegram бот з AI</strong></p>
+      <p>• 🧠 Інтеграція з OpenAI GPT-4</p>
+      <p>• 💬 Контекстуальні розмови</p>
+      <p>• 🎨 Генерація зображень DALL-E</p>
+      <p>• 📊 Аналітика та статистика</p>
+      <br>
+      <img src="https://img.shields.io/github/stars/IZenApp/telegram-ai-bot?style=social" />
+      <img src="https://img.shields.io/github/forks/IZenApp/telegram-ai-bot?style=social" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔗 GS Integration</h3>
+      <a href="https://github.com/IZenApp/GSTelegramDiscord">
+        <img src="https://img.shields.io/badge/Google_Sheets-Integration-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+      </a>
+      <br><br>
+      <p><strong>Автоматизація Google Sheets з ботами</strong></p>
+      <p>• 📊 Синхронізація даних в реальному часі</p>
+      <p>• 🔄 Двосторонній обмін даними</p>
+      <p>• 📈 Автоматичні звіти та аналітика</p>
+      <p>• ⚡ Webhook інтеграції</p>
+      <br>
+      <img src="https://img.shields.io/github/stars/IZenApp/GSTelegramDiscord?style=social" />
+      <img src="https://img.shields.io/github/forks/IZenApp/GSTelegramDiscord?style=social" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🎧 Audio Downloader</h3>
+      <a href="https://github.com/IZenApp/audiobook-downloader">
+        <img src="https://img.shields.io/badge/YouTube-Audio_Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+      </a>
+      <br><br>
+      <p><strong>Професійний аудіо екстрактор</strong></p>
+      <p>• 🎵 Високоякісне MP3 завантаження</p>
+      <p>• 📚 Підтримка аудіокниг</p>
+      <p>• 🔤 Робота з кирилицею</p>
+      <p>• 📱 Простий CLI інтерфейс</p>
+      <br>
+      <img src="https://img.shields.io/github/stars/IZenApp/audiobook-downloader?style=social" />
+      <img src="https://img.shields.io/github/forks/IZenApp/audiobook-downloader?style=social" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/IZenApp?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Більше_проектів-GitHub_Repos-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </div>
 
-<br/>
+## 📊 GitHub Analytics
 
 <div align="center">
-<div align="center">
-  <h3>💻 Мой код</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&width=500&height=120&lines=const+developer+%3D+%7B;++name%3A+%22Yevhenii+Bachula%22%2C;++role%3A+%22Full-Stack+Developer%22%2C;++location%3A+%22🇺🇦+Ukraine%22;%7D%3B" alt="Code" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZenApp&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10&layout=compact&langs_count=8" />
+
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=IZenApp&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E&border_radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="800" />
+
 </div>
 
-<div align="center">
-  <h3>⚡ Мой стек</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&repeat=false&pause=0&color=FF6B6B&center=true&vCenter=true&width=400&height=80&lines=Python+⭐⭐⭐⭐⭐;JavaScript+⭐⭐⭐⭐;C%2B%2B+⭐⭐⭐" alt="Skills" />
-</div>
-</div>
-
-<br/>
+## 🏆 Досягнення
 
 <div align="center">
-  <h3>🎮 Live Coding Session</h3>
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&width=250&height=80&lines=console.log(%22Hello+World!%22)%3B;%2F%2F+Мой+первый+код;print(%22Привет%2C+мир!%22)" alt="First Code" />
-        <p><strong>Первые шаги</strong></p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=3500&repeat=false&pause=0&color=FF7B72&center=true&vCenter=true&width=250&height=80&lines=async+function+magic()+%7B;++await+automation()%3B;++return+%22✨+Done!%22%3B;%7D" alt="Current Code" />
-        <p><strong>Сейчас пишу</strong></p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&repeat=false&pause=0&color=39D353&center=true&vCenter=true&width=250&height=80&lines=%2F%2F+TODO%3A+AI+integration;%2F%2F+TODO%3A+World+automation;%2F%2F+TODO%3A+Space+coding+🚀" alt="Future Code" />
-        <p><strong>Планы на будущее</strong></p>
-      </td>
-    </tr>
-  </table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
+
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" /> Технологический стек
+## 🌟 Що мене мотивує
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-        <br><sub><b>Python</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-        <br><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-        <br><sub><b>C++</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-        <br><sub><b>Node.js</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-        <br><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-        <br><sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
-        <br><sub><b>VS Code</b></sub>
-      </td>
-    </tr>
-  </table>
+
+```ascii
+    ╭─────────────────────────────────────────────────────────╮
+    │  "Code is like humor. When you have to explain it,     │
+    │   it's bad." - Cory House                              │
+    │                                                         │
+    │  🎯 Моя мета: Створювати інструменти, які полегшують    │
+    │     життя людей та автоматизують рутинні процеси        │
+    │                                                         │
+    │  💡 Принцип: Завжди вчитися, завжди покращуватися,      │
+    │     завжди ділитися знаннями                           │
+    ╰─────────────────────────────────────────────────────────╯
+```
+
 </div>
 
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="30" /> Мои проекты
+## 📫 Зв'язок зі мною
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🌉 GSDiscord</h3>
-        <a href="https://github.com/IZenApp/GSDiscord">
-          <img src="https://img.shields.io/badge/Discord-Google_Sheets-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-        <p><em>Мост между Discord и Google Sheets для автоматизации рабочих процессов</em></p>
-        <img src="https://img.shields.io/github/stars/IZenApp/GSDiscord?style=social" />
-        <img src="https://img.shields.io/github/forks/IZenApp/GSDiscord?style=social" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🚀 GSTelegramDiscord</h3>
-        <a href="https://github.com/IZenApp/GSTelegramDiscord">
-          <img src="https://img.shields.io/badge/Telegram-Discord-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-        <p><em>Интеграция Google Sheets с Telegram и Discord ботами</em></p>
-        <img src="https://img.shields.io/github/stars/IZenApp/GSTelegramDiscord?style=social" />
-        <img src="https://img.shields.io/github/forks/IZenApp/GSTelegramDiscord?style=social" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎧 Audiobook Downloader</h3>
-        <a href="https://github.com/IZenApp/audiobook-downloader">
-          <img src="https://img.shields.io/badge/YouTube-MP3-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
-        <p><em>Профессиональный загрузчик аудиокниг с поддержкой кириллицы</em></p>
-        <img src="https://img.shields.io/github/stars/IZenApp/audiobook-downloader?style=social" />
-        <img src="https://img.shields.io/github/forks/IZenApp/audiobook-downloader?style=social" />
-      </td>
-      <td width="50%" align="center">
-        <h3>🔍 Больше проектов</h3>
-        <a href="https://github.com/IZenApp?tab=repositories">
-          <img src="https://img.shields.io/badge/Explore-All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <p><em>Исследуйте все мои репозитории и найдите что-то интересное!</em></p>
-        <img src="https://img.shields.io/github/followers/IZenApp?style=social" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evgene352@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IZenApp)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yevhenii_bachula)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" height="30" /> GitHub Статистика
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&repeat=false&pause=0&color=36BCF7FF&center=true&vCenter=true&width=600&lines=📊+Загружаю+статистику...;🔥+Анализирую+активность...;⚡+Готово!+Смотрите+результаты+" alt="Loading Stats" />
-</div>
+**📧 Email:** evgene352@gmail.com  
+**🌍 Location:** Ukraine, Mykolayiv  
+**💼 Status:** Open for collaboration and interesting projects  
 
-<br/>
+<br>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" width="400"/>
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZenApp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=8&layout=compact&langs_count=8" alt="Top Languages" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=IZenApp&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IZenApp&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF7B72&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=8" alt="GitHub Streak" width="600"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🏆 Достижения</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" alt="GitHub Trophies"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Phone" width="30" height="30" /> Связаться со мной
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:evgene352@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/IZenApp">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=IZenApp&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&repeat=false&pause=0&color=58A6FF&center=true&vCenter=true&width=600&lines=💫+Спасибо+за+посещение!;🚀+Давайте+создавать+вместе!;⭐+Star+если+понравилось!" alt="Thank You" />
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,5,25&height=200&section=footer&animation=fadeIn" />
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+
+<br>
+
+### 🎵 Coding Playlist
+
+*Currently listening to: Lo-fi Hip Hop, Synthwave, and Classical Music while coding* 🎧
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=400&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Always+open+for+collaboration;💬+Feel+free+to+reach+out!" />
+
+<br>
+
+**Дякую за відвідування мого профілю! 🚀**
+
 </div>
