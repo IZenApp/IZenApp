@@ -93,7 +93,7 @@ const yevhenii = {
   <tr>
     <td width="50%" align="center">
       <h3>🎓 AssistentNUOS</h3>
-      <a href="https://github.com/IZenApp/AssistentNUOS">
+      <a href="https://github.com/evgnbch/AssistentNUOS">
         <img src="https://img.shields.io/badge/PWA-Student_Assistant-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
       <br><br>
@@ -103,29 +103,13 @@ const yevhenii = {
       <p>• 🎨 Сучасний Glassmorphism дизайн</p>
       <p>• ⚡ Швидка установка як нативний додаток</p>
       <br>
-      <img src="https://img.shields.io/github/stars/IZenApp/AssistentNUOS?style=social" />
-      <img src="https://img.shields.io/github/forks/IZenApp/AssistentNUOS?style=social" />
+      <img src="https://img.shields.io/github/stars/evgnbch/AssistentNUOS?style=social" />
+      <img src="https://img.shields.io/github/forks/evgnbch/AssistentNUOS?style=social" />
     </td>
-    <td width="50%" align="center">
-      <h3>🤖 AI Telegram Bot</h3>
-      <a href="https://github.com/IZenApp/telegram-ai-bot">
-        <img src="https://img.shields.io/badge/Telegram-AI_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-      </a>
-      <br><br>
-      <p><strong>Інтелектуальний Telegram бот з AI</strong></p>
-      <p>• 🧠 Інтеграція з OpenAI GPT-4</p>
-      <p>• 💬 Контекстуальні розмови</p>
-      <p>• 🎨 Генерація зображень DALL-E</p>
-      <p>• 📊 Аналітика та статистика</p>
-      <br>
-      <img src="https://img.shields.io/github/stars/IZenApp/telegram-ai-bot?style=social" />
-      <img src="https://img.shields.io/github/forks/IZenApp/telegram-ai-bot?style=social" />
-    </td>
-  </tr>
   <tr>
     <td width="50%" align="center">
       <h3>🔗 GS Integration</h3>
-      <a href="https://github.com/IZenApp/GSTelegramDiscord">
+      <a href="https://github.com/evgnbch/GSTelegramDiscord">
         <img src="https://img.shields.io/badge/Google_Sheets-Integration-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
       </a>
       <br><br>
@@ -135,12 +119,12 @@ const yevhenii = {
       <p>• 📈 Автоматичні звіти та аналітика</p>
       <p>• ⚡ Webhook інтеграції</p>
       <br>
-      <img src="https://img.shields.io/github/stars/IZenApp/GSTelegramDiscord?style=social" />
-      <img src="https://img.shields.io/github/forks/IZenApp/GSTelegramDiscord?style=social" />
+      <img src="https://img.shields.io/github/stars/evgnbch/GSTelegramDiscord?style=social" />
+      <img src="https://img.shields.io/github/forks/evgnbch/GSTelegramDiscord?style=social" />
     </td>
     <td width="50%" align="center">
       <h3>🎧 Audio Downloader</h3>
-      <a href="https://github.com/IZenApp/audiobook-downloader">
+      <a href="https://github.com/evgnbch/audiobook-downloader">
         <img src="https://img.shields.io/badge/YouTube-Audio_Downloader-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
       </a>
       <br><br>
@@ -150,15 +134,15 @@ const yevhenii = {
       <p>• 🔤 Робота з кирилицею</p>
       <p>• 📱 Простий CLI інтерфейс</p>
       <br>
-      <img src="https://img.shields.io/github/stars/IZenApp/audiobook-downloader?style=social" />
-      <img src="https://img.shields.io/github/forks/IZenApp/audiobook-downloader?style=social" />
+      <img src="https://img.shields.io/github/stars/evgnbch/audiobook-downloader?style=social" />
+      <img src="https://img.shields.io/github/forks/evgnbch/audiobook-downloader?style=social" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<a href="https://github.com/IZenApp?tab=repositories">
+<a href="https://github.com/evgnbch?tab=repositories">
   <img src="https://img.shields.io/badge/🔍_Більше_проектів-GitHub_Repos-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -168,13 +152,13 @@ const yevhenii = {
 
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=IZenApp&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=evgnbch&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&border_radius=10" />
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZenApp&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10&layout=compact&langs_count=8" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgnbch&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&border_radius=10&layout=compact&langs_count=8" />
 
-<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=IZenApp&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E&border_radius=10" />
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=evgnbch&theme=react&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=8B949E&border_radius=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IZenApp&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="800" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=evgnbch&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&area=true&hide_border=true&radius=10" width="800" />
 
 </div>
 
@@ -182,7 +166,7 @@ const yevhenii = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=IZenApp&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
+<img src="https://github-profile-trophy.vercel.app/?username=evgnbch&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Experience" />
 
 </div>
 
@@ -210,7 +194,7 @@ const yevhenii = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evgene352@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IZenApp)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/evgnbch)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yevhenii_bachula)
 
 <br>
@@ -221,7 +205,7 @@ const yevhenii = {
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IZenApp&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=evgnbch&color=00D4FF&style=for-the-badge&label=Profile+Views)
 
 </div>
 
