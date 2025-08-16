@@ -107,16 +107,16 @@ const yevhenii = {
       <img src="https://img.shields.io/github/forks/evgnbch/AssistentNUOS?style=social" />
     </td>
     <td width="50%" align="center">
-      <h3>🔗 GS Integration</h3>
+      <h3>🤖 GSTelegramDiscord</h3>
       <a href="https://github.com/evgnbch/GSTelegramDiscord">
-        <img src="https://img.shields.io/badge/Google_Sheets-Integration-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Sheets-Telegram_&_Discord_Bots-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
       </a>
       <br><br>
-      <p><strong>Автоматизація Google Sheets з ботами</strong></p>
-      <p>• 📊 Синхронізація даних в реальному часі</p>
-      <p>• 🔄 Двосторонній обмін даними</p>
+      <p><strong>Автоматизація Google Sheets через Telegram та Discord ботів</strong></p>
+      <p>• 📊 Синхронізація даних між Google Sheets і ботами</p>
+      <p>• 🔄 Двосторонній обмін інформацією</p>
       <p>• 📈 Автоматичні звіти та аналітика</p>
-      <p>• ⚡ Webhook інтеграції</p>
+      <p>• ⚡ Webhook інтеграції для реального часу</p>
       <br>
       <img src="https://img.shields.io/github/stars/evgnbch/GSTelegramDiscord?style=social" />
       <img src="https://img.shields.io/github/forks/evgnbch/GSTelegramDiscord?style=social" />
@@ -141,14 +141,14 @@ const yevhenii = {
     <td width="50%" align="center">
       <h3>💬 GSDiscord</h3>
       <a href="https://github.com/evgnbch/GSDiscord">
-        <img src="https://img.shields.io/badge/Google_Sheets-Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Sheets-Discord_Integration-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
       </a>
       <br><br>
-      <p><strong>Інтеграція Google Sheets з Discord</strong></p>
-      <p>• 🤖 Автоматичне оновлення даних у Discord-каналах</p>
-      <p>• 📊 Відображення статистики та звітів</p>
-      <p>• 🔄 Синхронізація з Google Sheets</p>
-      <p>• ⚡ Просте налаштування та використання</p>
+      <p><strong>Інтеграція Google Sheets з Discord-каналами</strong></p>
+      <p>• 🤖 Автоматичне оновлення повідомлень у Discord</p>
+      <p>• 📊 Відображення статистики та звітів прямо в чаті</p>
+      <p>• 🔄 Синхронізація даних з Google Sheets</p>
+      <p>• ⚡ Просте налаштування для адміністраторів</p>
       <br>
       <img src="https://img.shields.io/github/stars/evgnbch/GSDiscord?style=social" />
       <img src="https://img.shields.io/github/forks/evgnbch/GSDiscord?style=social" />
