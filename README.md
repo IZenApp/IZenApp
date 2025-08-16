@@ -105,7 +105,6 @@ const yevhenii = {
       <br>
       <img src="https://img.shields.io/github/stars/evgnbch/AssistentNUOS?style=social" />
       <img src="https://img.shields.io/github/forks/evgnbch/AssistentNUOS?style=social" />
-    </td>
   <tr>
     <td width="50%" align="center">
       <h3>🔗 GS Integration</h3>
@@ -121,7 +120,7 @@ const yevhenii = {
       <br>
       <img src="https://img.shields.io/github/stars/evgnbch/GSTelegramDiscord?style=social" />
       <img src="https://img.shields.io/github/forks/evgnbch/GSTelegramDiscord?style=social" />
-    </td>
+    </td></td>
     <td width="50%" align="center">
       <h3>🎧 Audio Downloader</h3>
       <a href="https://github.com/evgnbch/audiobook-downloader">
