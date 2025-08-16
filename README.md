@@ -139,7 +139,20 @@ const yevhenii = {
       <img src="https://img.shields.io/github/forks/evgnbch/audiobook-downloader?style=social" />
     </td>
     <td width="50%" align="center">
-      <!-- Место для будущего проекта или оставьте пустым -->
+      <h3>💬 GSDiscord</h3>
+      <a href="https://github.com/evgnbch/GSDiscord">
+        <img src="https://img.shields.io/badge/Google_Sheets-Discord_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+      </a>
+      <br><br>
+      <p><strong>Інтеграція Google Sheets з Discord</strong></p>
+      <p>• 🤖 Автоматичне оновлення даних у Discord-каналах</p>
+      <p>• 📊 Відображення статистики та звітів</p>
+      <p>• 🔄 Синхронізація з Google Sheets</p>
+      <p>• ⚡ Просте налаштування та використання</p>
+      <br>
+      <img src="https://img.shields.io/github/stars/evgnbch/GSDiscord?style=social" />
+      <img src="https://img.shields.io/github/forks/evgnbch/GSDiscord?style=social" />
+    </td>
     </td>
   </tr>
 </table>
